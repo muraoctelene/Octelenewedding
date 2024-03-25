@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Wedding</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h1>Welcome to The Octelene Virtual Wedding</h1>
+        <!-- Navigation menu (if needed) -->
+    </header>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <!-- Add information about the couple -->
+        </section>
+
+        <section>
+            <h2>Wedding Details</h2>
+            <Unfortunately space is limited, but we still want you to be a part of our experience! Please enjoy with us, via Zoom>
+        </section>
+
+        <section>
+            <h2>RSVP</h2>
+            <!-- Add an RSVP form -->
+        </section>
+
+        <section>
+            <h2>Donation/Gift</h2>
+            <!-- Add options for donation/gift, including Zelle and other payment methods -->
+        </section>
+
+        <section>
+            <h2>Contact</h2>
+            <!-- Add contact information -->
+        </section>
+    </main>
+
+    <footer>
+        <!-- Footer content -->
+    </footer>
+</body>
+</html>
